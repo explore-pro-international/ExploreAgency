@@ -63,3 +63,15 @@ footer{
 footer img{
 	width: 300px;
 }
+.header-nav-wrapper .logo{
+	border-bottom: none !important;
+	background-color: #ffff;
+	margin-left: 10px;
+	margin-top: 5px;
+}
+.logo img{
+	width: 400px !important;
+}
+.nomdumail{
+font-size: 20px;
+}
