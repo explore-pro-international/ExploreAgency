@@ -241,7 +241,7 @@
                         <figure>
                             <figcaption class="overlay">
                                 <h2>Thomas MIRABILE</h2>
-                                <p>Etudiant en Bachelor Informatique, je suis passionné par le sport, la musique et le
+                                <p>Etudiant en Master Informatique, je suis passionné par le sport, la musique et le
                                     digital.</p>
                                 <div class="crew-socials">
                                     <ul>
