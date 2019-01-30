@@ -81,3 +81,60 @@ font-size: 20px;
 	font-size: 20px;
 	font-weight: bold;
 }
+.row{
+	margin-left: 0px !important;
+}
+.Lyen{
+	font-size: 20px !important;
+}
+#team{
+	background-color: #4f4486;
+}
+h4{
+	color: white !important;
+}
+.freebies-intro{
+	background-color: #4f4486 !important;
+}
+p{
+	color : white !important;
+}
+h5{
+	color: white !important;
+}
+.container-fluid{
+	padding-left: 0px !important;
+}
+.hero{
+	background-color: #4f4486;
+}
+#freebies{
+	background-color: #4f4486;
+}
+.control-label.requiredField{
+	color: white !important;
+}
+.primary-nav-wrapper{
+	background-color: #4f4486 !important;
+}
+.secondary-nav-wrapper{
+	background-color: #4f4486 !important;
+}
+.header-nav-wrapper{
+	background-color: #4f4486 !important;
+}
+.logo{
+	background-color: #4f4486 !important;
+}
+.header-nav-wrapper nav ul li a {
+    color: white !important;
+}
+.header-nav-wrapper nav ul li {
+    margin-top: 14px;
+    font-size: 14px !important;
+    color: white !important;
+}
+.secondary-nav-wrapper ul.secondary-nav li.subscribe a{
+    font-size: 14px !important;
+    color: white !important;
+}
